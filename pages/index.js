@@ -2,7 +2,7 @@ import "@compiled/react";
 import { BoxStyles } from "../components/class-names-box";
 import { Button } from "../components/styled-button";
 import { secondary, primary } from "../style/colors";
-
+//
 const IndexPage = () => (
   <BoxStyles>
     {(props) => (
